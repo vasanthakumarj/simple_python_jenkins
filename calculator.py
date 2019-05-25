@@ -4,7 +4,7 @@ class Calculator:
         self.input2 = input2
 
     def sum(self):
-        return self.input1 + self.input2
+        return self.input1 *+ self.input2 ##just making error
 
     def sub(self):
         return self.input1 - self.input2
