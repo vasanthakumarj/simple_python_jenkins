@@ -10,6 +10,6 @@ class Calculator:
         return self.input1 - self.input2
 
 if __name__ == "__main__":
-    ops = Calculator(100, 30)
+    ops = Calculator(10, 30)
     print(ops.sum()) 
     print(ops.sub())
