@@ -11,5 +11,5 @@ class Calculator:
 
 if __name__ == "__main__":
     ops = Calculator(10, 30)
-    print(ops.sum())
+    print(ops.sum()) 
     print(ops.sub())
